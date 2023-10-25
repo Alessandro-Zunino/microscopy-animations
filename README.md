@@ -1,7 +1,7 @@
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-# Microscopy-animations
+# Microscopy animations
 Code to generate gifs and animations to explain optics and microscopy concepts.
 
 The animations can be freely downloaded and used with the condition of citing the source and author.
@@ -12,7 +12,7 @@ Please also cite the following papers:
 
 * Giorgio Tortarolo†, Alessandro Zunino†, Francesco Fersini, Marco Castello, Simonluca Piazza, Colin J.R. Sheppard, Paolo Bianchini, Alberto Diaspro, Sami Koho, and Giuseppe Vicidomini. “Focus image scanning microscopy for sharp and gentle super-resolved microscopy”. In: Nature Communications 13 (1 2022). doi: 10.1038/s41467-022-35333-y.
 
-# License
+## License
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
