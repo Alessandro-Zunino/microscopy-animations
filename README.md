@@ -2,7 +2,7 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 # Microscopy animations
-Code to generate gifs and animations to explain optics and microscopy concepts.
+This repository contains the code to generate gifs and animations to explain optics and microscopy concepts.
 
 The animations can be freely downloaded and used with the condition of citing the source and author.
 
